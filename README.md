@@ -8,10 +8,10 @@ QUPS: Q1 Assignment Task
 
 ## Run Locally
 
-Clone the project
+Open terminal/git bash and Clone the project
 
 ```bash
-  https://github.com/Rifat-47/Test-Automation-QUPS-.git
+  git clone https://github.com/Rifat-47/Test-Automation-QUPS-.git
 ```
 
 Go to the project directory
