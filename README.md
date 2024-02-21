@@ -27,7 +27,11 @@ Install virtual environment
 ```
 
 Create a virtual environment with name 'venvname'
+```bash
+  python -m venv venvname
+```
 
+Activate virtual environment
 ```bash
   venvname\Scripts\activate
 ```
